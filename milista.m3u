@@ -1,0 +1,160 @@
+#EXTM3U
+
+#EXTINF:-1,Universal
+http://45.232.210.1:8062/play/a09d/index.m3u8
+
+#EXTINF:-1,TNT HD
+http://45.232.210.1:8062/play/tnthd/index.m3u8
+
+#EXTINF:-1,TNT
+http://45.232.210.1:8062/play/a09n/index.m3u8
+
+#EXTINF:-1,FX
+http://45.232.210.1:8062/play/a0b8/index.m3u8
+
+#EXTINF:-1,Sony
+http://45.232.210.1:8062/play/a0b5/index.m3u8
+
+#EXTINF:-1,TBS
+http://45.232.210.1:8062/play/a09y/index.m3u8
+
+#EXTINF:-1,TCM
+http://45.232.210.1:8062/play/a09k/index.m3u8
+
+#EXTINF:-1,AXN
+http://45.232.210.1:8062/play/a0b6/index.m3u8
+
+#EXTINF:-1,Cinecanal
+http://45.232.210.1:8062/play/a09c/index.m3u8
+
+#EXTINF:-1,Cinemax
+http://45.232.210.1:8062/play/a0b4/index.m3u8
+
+#EXTINF:-1,Star Channel
+http://45.232.210.1:8062/play/a09e/index.m3u8
+
+#EXTINF:-1,HBO 2
+http://45.232.210.1:8062/play/a08f/index.m3u8
+
+#EXTINF:-1,HBO Family
+http://45.232.210.1:8062/play/a08i/index.m3u8
+
+#EXTINF:-1,HBO Plus
+http://45.232.210.1:8062/play/a08g/index.m3u8
+
+#EXTINF:-1,I-Sat
+http://45.232.210.1:8062/play/a09f/index.m3u8
+
+#EXTINF:-1,HBO Extreme
+http://45.232.210.1:8062/play/a08h/index.m3u8
+
+#EXTINF:-1,A&E Mundo
+http://190.131.228.59:8000/play/a05x/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://45.232.210.1:8062/play/a08p/index.m3u8
+
+#EXTINF:-1,Animal Planet
+http://190.131.228.59:8000/play/a05o/index.m3u8
+
+#EXTINF:-1,Nat Geo
+http://45.232.210.1:8062/play/a09a/index.m3u8
+
+#EXTINF:-1,Travel and Living
+http://45.232.210.1:8062/play/a091/index.m3u8
+
+#EXTINF:-1,Discovery Channel
+http://45.232.210.1:8062/play/a08o/index.m3u8
+
+#EXTINF:-1,Discovery ID
+http://45.232.210.1:8062/play/a09v/index.m3u8
+
+#EXTINF:-1,History Channel
+http://45.232.210.1:8062/play/a09b/index.m3u8
+
+#EXTINF:-1,Home and Health
+http://45.232.210.1:8062/play/a09z/index.m3u8
+
+#EXTINF:-1,canal encuentro
+https://youtu.be/HQbfsKXVOJw
+
+#EXTINF:-1,Sin Limites
+http://45.232.210.1:8062/play/a0a9/index.m3u8
+
+#EXTINF:-1,CANAL 13 HD
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+
+#EXTINF:-1,Canal 26 HD
+http://200.115.193.177/live/26hd-720/.m3u8
+
+#EXTINF:-1,Argentinísima Satelital
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
+
+#EXTINF:-1,LN+
+https://youtu.be/HlhZ0XZHHaw
+
+#EXTINF:-1,Tn noticias
+https://tn.com.ar/envivo/24hs/playlist.m3u8
+
+#EXTINF:-1,Tv publica
+https://www.tvpublica.com.ar/vivo/playlist.m3u8
+
+#EXTINF:-1,Fox Sports
+http://45.232.210.1:8062/play/a08s/index.m3u8
+
+#EXTINF:-1,Fox Sports 2
+http://45.232.210.1:8062/play/a094/index.m3u8
+
+#EXTINF:-1,Fox Sports 3
+http://45.232.210.1:8062/play/a095/index.m3u8
+
+#EXTINF:-1,Fox Sports Premium
+http://45.232.210.1:8062/play/a08b/index.m3u8
+
+#EXTINF:-1,Extrema TV
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+
+#EXTINF:-1,ESPN HD
+http://189.216.247.113/Content/HLS/Live/Channel(ESPN_HD)/Stream(06)/index.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+
+#EXTINF:-1,DXTV DEPORTES
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+
+#EXTINF:-1,Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+
+# EXTINF: 0, Music Top (ARG)
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+
+#EXTINF:-1,RETRO TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,type="stream"  title="MUSICA" - RETRO Music Television
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,Rock Nacional TV
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+
+#EXTINF:-1,RETRO MUCIC TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1,MELODY CHANEL
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?iptvgratis?Musica.m3u8
+
+#EXTINF:-1,TOP LATINO MUSICA
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+
+#EXTINF:-1,TOP LATINO
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w430979689.m3u8
+
+#EXTINF:-1,Cool 103.7
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+
+#EXTINF:-1,NC+ MUSICA
+http://123.30.134.108:1935/live/nctlive/playlist.m3u8
+
+#EXTINF:-1,MTV
+http://45.232.210.1:8062/play/a09g/index.m3u8
